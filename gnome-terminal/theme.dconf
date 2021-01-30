@@ -1,0 +1,10 @@
+[/]
+background-color='rgb(10,14,20)'
+bold-color='rgb(255,255,255)'
+bold-color-same-as-fg=true
+bold-is-bright=false
+foreground-color='rgb(179,177,173)'
+palette=['rgb(179,177,173)', 'rgb(238,99,107)', 'rgb(0,180,84)', 'rgb(194,217,76)', 'rgb(230,182,115)', 'rgb(217,108,117)', 'rgb(149,230,203)', 'rgb(211,215,207)', 'rgb(67,196,240)', 'rgb(255,51,51)', 'rgb(0,143,64)', 'rgb(204,227,86)', 'rgb(240,192,125)', 'rgb(227,118,127)', 'rgb(159,240,213)', 'rgb(238,238,236)']
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='ayu'
